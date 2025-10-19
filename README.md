@@ -1,6 +1,6 @@
 # 🚀 HNG13 Backend Stage 0 — Profile Endpoint
 
-This project is my submission for **Backend Wizards Stage 0** of the [HNG13 Internship](https://hng.tech/).  
+This project is my submission for **Hng13 Backend Stage 0** of the [HNG13 Internship](https://hng.tech/).  
 The goal was to build a simple **FastAPI** endpoint that returns my profile information together with a **dynamic cat fact** fetched from an external API.
 
 ---
